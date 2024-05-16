@@ -7,7 +7,7 @@ Desafio proposto pelo programa de aprendizado da Rockeatseat e feito por MaathDe
 
 <p align="center">
   <a style="color: #EE24FF;" href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a style="color: #EE24FF;" href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a style="color: #EE24FF;" href="#-projeto">Projeto</a>
 </p>
 
 <br>
