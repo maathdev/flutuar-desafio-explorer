@@ -8,8 +8,6 @@ Desafio proposto pelo programa de aprendizado da Rockeatseat e feito por MaathDe
 <p align="center">
   <a style="color: #EE24FF;" href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a style="color: #EE24FF;" href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a style="color: #EE24FF;" href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a style="color: #EE24FF;" href="#memo-licença">Licença</a>
 </p>
 
 <br>
@@ -31,10 +29,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
 - [Acesse o projeto finalizado, online] <a style="color: #EE24FF;" href="https://maathdev.github.io/flutuar-desafio-explorer/">(https://maathdev.github.io/flutuar-desafio-explorer/)</a>
-
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [DESSE LINK] <a style="color: #EE24FF;" href="https://efficient-sloth-d85.notion.site/Desafio-intermedi-rio-Recriando-layout-19dfbff7b19c47c59a286afa37d42543">(https://efficient-sloth-d85.notion.site/Desafio-intermedi-rio-Recriando-layout-19dfbff7b19c47c59a286afa37d42543).</a> É necessário ter conta no [Figma] <a style="color: #EE24FF;" href="https://figma.com">(https://figma.com)</a> para acessá-lo.
 
 ---
 
